@@ -1,0 +1,889 @@
+{
+"cardsList" : [
+	{
+      "_idstr": "albrich",
+      "name": "Albrich",
+      "_id": 0,
+      "faction": "NF",
+      "unique": false,
+      "strength": 2,
+      "row": "range",
+      "ability": null
+    },
+	{
+      "_idstr": "assire_var_anahid",
+      "name": "Assire var Anahid",
+      "_id": 3,
+      "faction": "NF",
+      "unique": false,
+      "strength": 6,
+      "row": "range",
+      "ability": null
+    },
+	{
+		"name" : "Ballista",
+		"_id" : 4,
+		"unique" : false,
+		"faction" : "NR",
+		"strength" : 6,
+		"row" : "siege",
+		"ability" : null
+	},
+	{
+      "_idstr": "black_infantry_archer_2",
+      "name": "Black Infantry Archer 2",
+      "_id": 6,
+      "faction": "NF",
+      "unique": false,
+      "strength": 10,
+      "row": "range",
+      "ability": null
+    },
+	{
+		"name" : "Blue Stripe Commando",
+		"_id" : 7,
+		"unique" : false,
+		"faction" : "NR",
+		"strength" : 4,
+		"row" : "close",
+		"ability" : "tight_bond"
+	},
+	{
+		"name" : "Blue Stripe Commando",
+		"_id" : 7,
+		"unique" : false,
+		"faction" : "NR",
+		"strength" : 4,
+		"row" : "close",
+		"ability" : "tight_bond"
+	},
+	{
+		"name" : "Blue Stripe Commando",
+		"_id" : 7,
+		"unique" : false,
+		"faction" : "NR",
+		"strength" : 4,
+		"row" : "close",
+		"ability" : "tight_bond"
+	},
+	{
+      "_idstr": "cahir_mawr_dyffryn_aep_ceallach",
+      "name": "Cahir Mawr Dyffryn aep Ceallach",
+      "_id": 10,
+      "faction": "NF",
+      "unique": false,
+      "strength": 6,
+      "row": "close",
+      "ability": null
+    },
+	{
+      "_idstr": "catapult_1",
+      "name": "Catapult",
+      "_id": 11,
+      "faction": "NR",
+      "unique": false,
+      "strength": 8,
+      "row": "siege",
+      "ability": "tight_bond"
+    },
+	{
+      "_idstr": "catapult_1",
+      "name": "Catapult",
+      "_id": 11,
+      "faction": "NR",
+      "unique": false,
+      "strength": 8,
+      "row": "siege",
+      "ability": "tight_bond"
+    },
+	{
+      "_idstr": "cirilla_fiona_elen_rianno_1",
+      "name": "Cirilla Fiona Elen Rianno",
+      "_id": 14,
+      "faction": "N",
+      "unique": true,
+      "strength": 15,
+      "row": "close",
+      "ability": null
+    },
+	{
+		"name" : "Crinfrid Reavers Dragon Hunter",
+		"_id" : 17,
+		"unique" : false,
+		"faction" : "NR",
+		"strength" : 5,
+		"row" : "range",
+		"ability" : "tight_bond"
+	},
+	{
+		"name" : "Crinfrid Reavers Dragon Hunter",
+		"_id" : 17,
+		"unique" : false,
+		"faction" : "NR",
+		"strength" : 5,
+		"row" : "range",
+		"ability" : "tight_bond"
+	},
+	{
+		"name" : "Crinfrid Reavers Dragon Hunter",
+		"_id" : 17,
+		"unique" : false,
+		"faction" : "NR",
+		"strength" : 5,
+		"row" : "range",
+		"ability" : "tight_bond"
+	},
+	{
+      "_idstr": "cynthia",
+      "name": "Cynthia",
+      "_id": 21,
+      "faction": "NF",
+      "unique": false,
+      "strength": 4,
+      "row": "range",
+      "ability": null
+    },
+	{
+      "_idstr": "dandelion_1",
+      "name": "Dandelion",
+      "_id": 22,
+      "faction": "N",
+      "unique": false,
+      "strength": 2,
+      "row": "close",
+      "ability": "commander_horn"
+    },
+	{
+      "name": "Dethmold",
+      "_id": 24,
+      "faction": "NR",
+      "unique": false,
+      "strength": 6,
+      "row": "range",
+      "ability": null
+    },
+	{
+      "name": "Dun Banner Medic",
+      "_id": 28,
+      "unique": false,
+      "faction": "NR",
+      "strength": 5,
+      "row": "siege",
+      "ability": "medic"
+    },
+	{
+      "_idstr": "emhyr_var_emreis_emperor_of_nilfgaard",
+      "name": "Emhyr var Emreis Emperor of Nilfgaard",
+      "_id": 33,
+      "faction": "NF",
+      "unique": null,
+      "strength": null,
+      "row": "active",
+      "ability": "leader"
+    },
+	{
+      "_idstr": "emhyr_var_emreis_his_imperial_majesty",
+      "name": "Emhyr var Emreis His Imperial Majesty",
+      "_id": 34,
+      "faction": "NF",
+      "unique": null,
+      "strength": null,
+      "row": "active",
+      "ability": "leader"
+    },
+    {
+      "_idstr": "emhyr_var_emreis_invader_of_the_north",
+      "name": "Emhyr var Emreis Invader of The North",
+      "_id": 35,
+      "faction": "NF",
+      "unique": null,
+      "strength": null,
+      "row": "passive",
+      "ability": "leader"
+    },
+    {
+      "_idstr": "emhyr_var_emreis_the_relentless",
+      "name": "Emhyr var Emreis the Relentless",
+      "_id": 36,
+      "faction": "NF",
+      "unique": null,
+      "strength": null,
+      "row": "active",
+      "ability": "leader"
+    },
+    {
+      "_idstr": "emhyr_var_emreis_the_white_flame",
+      "name": "Emhyr var Emreis the White Flame",
+      "_id": 37,
+      "faction": "NF",
+      "unique": null,
+      "strength": null,
+      "row": "passive",
+      "ability": "leader"
+    },
+	{
+      "name": "Esterad Thyssen",
+      "_id": 45,
+      "faction": "NR",
+      "unique": true,
+      "strength": 10,
+      "row": "close",
+      "ability": null
+    },
+	{
+      "_idstr": "etolian_auxiliary_archers_1",
+      "name": "Etolian Auxiliary Archers 1",
+      "_id": 46,
+      "faction": "NF",
+      "unique": false,
+      "strength": 1,
+      "row": "range",
+      "ability": "medic"
+    },
+	{
+      "_idstr": "foltest_the_siegemaster",
+      "name": "Foltest the Siegemaster",
+      "_id": 51,
+      "faction": "NR",
+      "unique": null,
+      "strength": null,
+      "row": "active",
+      "ability": "leader"
+    },
+	{
+		"name" : "Foltest Lord Commander of the North",
+		"_id" : 52,
+		"unique" : false,
+		"faction" : "NR",
+		"strength" : null,
+		"row" : "range",
+		"ability" : "leader"
+	},
+	{
+      "_idstr": "foltest_son_of_medell",
+      "name": "Foltest Son of Medell",
+      "_id": 53,
+      "faction": "NR",
+      "unique": null,
+      "strength": null,
+      "row": "active",
+      "ability": "leader"
+    },
+	{
+      "_idstr": "foltest_king_of_temeria",
+      "name": "Foltest King of Temeria",
+      "_id": 54,
+      "faction": "NR",
+      "unique": null,
+      "strength": null,
+      "row": "active",
+      "ability": "leader"
+    },
+	{
+      "_idstr": "foltest_the_steel_forged",
+      "name": "Foltest the Steel-Forged",
+      "_id": 55,
+      "faction": "NR",
+      "unique": null,
+      "strength": null,
+      "row": "active",
+      "ability": "leader"
+    },
+	{
+      "_idstr": "fringilla_vigo",
+      "name": "Fringilla Vigo",
+      "_id": 63,
+      "faction": "NF",
+      "unique": false,
+      "strength": 6,
+      "row": "range",
+      "ability": null
+    },
+	{
+      "_idstr": "geralt_of_rivia_1",
+      "name": "Geralt of Rivia",
+      "_id": 67,
+      "faction": "N",
+      "unique": true,
+      "strength": 15,
+      "row": "close",
+      "ability": null
+    },
+	{
+      "_idstr": "heavy_zerrikanian_fire_scorpion",
+      "name": "Heavy Zerrikanian Fire Scorpion",
+      "_id": 74,
+      "faction": "NF",
+      "unique": false,
+      "strength": 10,
+      "row": "siege",
+      "ability": null
+    },
+	{
+      "_idstr": "impera_brigade_guard_3",
+      "name": "Impera Brigade Guard 3",
+      "_id": 78,
+      "faction": "NF",
+      "unique": false,
+      "strength": 3,
+      "row": "close",
+      "ability": "tight_bond"
+    },
+	{
+      "_idstr": "john_natalis",
+      "name": "John Natalis",
+      "_id": 81,
+      "faction": "NR",
+      "unique": true,
+      "strength": 10,
+      "row": "close",
+      "ability": null
+    },
+	{
+		"name" : "Kaedweni Siege Expert",
+		"_id" : 82,
+		"unique" : false,
+		"faction" : "NR",
+		"strength" : 1,
+		"row" : "siege",
+		"ability" : "morale_boost"
+	},
+	{
+		"name" : "Kaedweni Siege Expert",
+		"_id" : 82,
+		"unique" : false,
+		"faction" : "NR",
+		"strength" : 1,
+		"row" : "siege",
+		"ability" : "morale_boost"
+	},
+	{
+		"name" : "Kaedweni Siege Expert",
+		"_id" : 82,
+		"unique" : false,
+		"faction" : "NR",
+		"strength" : 1,
+		"row" : "siege",
+		"ability" : "morale_boost"
+	},
+	{
+      "name": "Keira Metz",
+      "_id": 84,
+      "faction": "NR",
+      "unique": false,
+      "strength": 5,
+      "row": "range",
+      "ability": null
+    },
+	{
+      "_idstr": "letho_of_gulet",
+      "name": "Letho of Gulet",
+      "_id": 86,
+      "faction": "NF",
+      "unique": true,
+      "strength": 10,
+      "row": "close",
+      "ability": null
+    },
+	{
+      "_idstr": "menno_coehoorn",
+      "name": "Menno Coehoorn",
+      "_id": 88,
+      "faction": "NF",
+      "unique": true,
+      "strength": 10,
+      "row": "close",
+      "ability": "medic"
+    },
+	{
+      "_idstr": "morteisen",
+      "name": "Morteisen",
+      "_id": 90,
+      "faction": "NF",
+      "unique": false,
+      "strength": 3,
+      "row": "close",
+      "ability": null
+    },
+	{
+      "_idstr": "morvran_voorhis",
+      "name": "Morvran Voorhis",
+      "_id": 91,
+      "faction": "NF",
+      "unique": true,
+      "strength": 10,
+      "row": "siege",
+      "ability": null
+    },
+	{
+      "_idstr": "mysterious_elf_1",
+      "name": "Mysterious Elf",
+      "_id": 92,
+      "faction": "N",
+      "unique": true,
+      "strength": 0,
+      "row": "close",
+      "ability": "spy"
+    },
+	{
+      "_idstr": "nausicaa_cavalry_rider_2",
+      "name": "Nausicaa Cavalry Rider 2",
+      "_id": 93,
+      "faction": "NF",
+      "unique": false,
+      "strength": 2,
+      "row": "close",
+      "ability": "tight_bond"
+    },
+	{
+		"name" : "Olgierd",
+		"_id" : 95,
+		"unique" : false,
+		"faction" : "N",
+		"strength" : 6,
+		"row" : "close_range",
+		"ability" : "morale_boost"
+	},
+	{
+		"name" : "Philippa",
+		"_id" : 96,
+		"unique" : true,
+		"faction" : "NR",
+		"strength" : 10,
+		"row" : "range",
+		"ability" : null
+	},
+	{
+      "_idstr": "poor_fucking_infantry_1",
+      "name": "Poor Fucking Infantry",
+      "_id": 98,
+      "faction": "NR",
+      "unique": false,
+      "strength": 1,
+      "row": "close",
+      "ability": "tight_bond"
+    },
+	{
+      "name": "Prince Stennis",
+      "_id": 99,
+      "unique": false,
+      "faction": "NR",
+      "strength": 5,
+      "row": "close",
+      "ability": "spy"
+    },
+	{
+      "_idstr": "puttkammer",
+      "name": "Puttkammer",
+      "_id": 100,
+      "faction": "NF",
+      "unique": false,
+      "strength": 3,
+      "row": "range",
+      "ability": null
+    },
+	{
+      "_idstr": "rainfarn",
+      "name": "Rainfarn",
+      "_id": 101,
+      "faction": "NF",
+      "unique": false,
+      "strength": 4,
+      "row": "close",
+      "ability": null
+    },
+	{
+      "_idstr": "redanian_foot_soldier_1",
+      "name": "Redanian Foot Soldier 1",
+      "_id": 102,
+      "faction": "NR",
+      "unique": false,
+      "strength": 1,
+      "row": "close",
+      "ability": null
+    },
+	{
+      "_idstr": "renuald_aep_matsen",
+      "name": "Renuald aep Matsen",
+      "_id": 103,
+      "faction": "NF",
+      "unique": false,
+      "strength": 5,
+      "row": "range",
+      "ability": null
+    },
+	{
+      "_idstr": "rotten_mangonel",
+      "name": "Rotten Mangonel",
+      "_id": 105,
+      "faction": "NF",
+      "unique": false,
+      "strength": 3,
+      "row": "siege",
+      "ability": null
+    },
+	{
+      "_idstr": "sabrina_glevissig",
+      "name": "Sabrina Glevissig",
+      "_id": 106,
+      "faction": "NR",
+      "unique": false,
+      "strength": 4,
+      "row": "range",
+      "ability": null
+    },
+	{
+      "_idstr": "shelden_skaggs",
+      "name": "Shelden Skaggs",
+      "_id": 109,
+      "faction": "NR",
+      "unique": false,
+      "strength": 4,
+      "row": "range",
+      "ability": null
+    },
+	{
+      "_idstr": "shilard_fitz_oesterlen",
+      "name": "Shilard Fitz-Oesterlen",
+      "_id": 110,
+      "faction": "NF",
+      "unique": false,
+      "strength": 7,
+      "row": "close",
+      "ability": "spy"
+    },
+	{
+      "_idstr": "siege_engineer",
+      "name": "Siege Engineer",
+      "_id": 111,
+      "faction": "NF",
+      "unique": false,
+      "strength": 6,
+      "row": "siege",
+      "ability": null
+    },
+    {
+      "_idstr": "siege_technician",
+      "name": "Siege Technician",
+      "_id": 112,
+      "faction": "NF",
+      "unique": false,
+      "strength": 0,
+      "row": "siege",
+      "ability": "medic"
+    },
+	{
+      "name": "Siege Tower 2",
+      "_id": 113,
+      "faction": "NR",
+      "unique": false,
+      "strength": 6,
+      "row": "siege",
+      "ability": null
+    },
+	{
+      "_idstr": "siegfried_of_denesle",
+      "name": "Siegfried of Denesle",
+      "_id": 114,
+      "faction": "NR",
+      "unique": false,
+      "strength": 5,
+      "row": "close",
+      "ability": null
+    },
+	{
+      "name": "Sigismund Dijkstra",
+      "_id": 115,
+      "unique": false,
+      "faction": "NR",
+      "strength": 4,
+      "row": "close",
+      "ability": "spy"
+    },
+	{
+      "_idstr": "sile_de_tansarville",
+      "name": "Sile de Tansarville",
+      "_id": 116,
+      "faction": "NR",
+      "unique": false,
+      "strength": 5,
+      "row": "range",
+      "ability": null
+    },
+	{
+      "_idstr": "stefan_skellen",
+      "name": "Stefan Skellen",
+      "_id": 117,
+      "faction": "NF",
+      "unique": false,
+      "strength": 9,
+      "row": "close",
+      "ability": "spy"
+    },
+    {
+      "_idstr": "sweers",
+      "name": "Sweers",
+      "_id": 118,
+      "faction": "NF",
+      "unique": false,
+      "strength": 2,
+      "row": "range",
+      "ability": null
+    },
+	{
+      "name": "Thaler",
+      "_id": 119,
+      "unique": false,
+      "faction": "NR",
+      "strength": 1,
+      "row": "siege",
+      "ability": "spy"
+    },
+	{
+      "_idstr": "tibor_eggebracht",
+      "name": "Tibor Eggebracht",
+      "_id": 120,
+      "faction": "NF",
+      "unique": true,
+      "strength": 10,
+      "row": "range",
+      "ability": null
+    },
+	{
+      "name": "Trebuchet 1",
+      "_id": 123,
+      "faction": "NR",
+      "unique": false,
+      "strength": 6,
+      "row": "siege",
+      "ability": null
+    },
+	{
+      "_idstr": "triss_merigold_1",
+      "name": "Triss Merigold",
+      "_id": 124,
+      "faction": "N",
+      "unique": true,
+      "strength": 7,
+      "row": "close",
+      "ability": null
+    },
+	{
+      "_idstr": "vanhemar",
+      "name": "Vanhemar",
+      "_id": 130,
+      "faction": "NF",
+      "unique": false,
+      "strength": 4,
+      "row": "range",
+      "ability": null
+    },
+    {
+      "_idstr": "vattier_de_rideaux",
+      "name": "Vattier de Rideaux",
+      "_id": 131,
+      "faction": "NF",
+      "unique": false,
+      "strength": 4,
+      "row": "close",
+      "ability": "spy"
+    },
+	{
+      "name": "Vernon Roche",
+      "_id": 132,
+      "faction": "NR",
+      "unique": true,
+      "strength": 10,
+      "row": "close",
+      "ability": null
+    },
+	{
+      "name": "Ves",
+      "_id": 133,
+      "faction": "NR",
+      "unique": false,
+      "strength": 5,
+      "row": "close",
+      "ability": null
+    },
+	{
+      "_idstr": "vesemir_1",
+      "name": "Vesemir",
+      "_id": 134,
+      "faction": "N",
+      "unique": false,
+      "strength": 6,
+      "row": "close",
+      "ability": null
+    },
+	{
+      "_idstr": "villentretenmerth_1",
+      "name": "Villentretenmerth",
+      "_id": 135,
+      "faction": "N",
+      "unique": false,
+      "strength": 7,
+      "row": "close",
+      "ability": "scorch_close"
+    },
+	{
+      "_idstr": "vreemde",
+      "name": "Vreemde",
+      "_id": 136,
+      "faction": "NF",
+      "unique": false,
+      "strength": 2,
+      "row": "close",
+      "ability": null
+    },
+	{
+      "_idstr": "yarpen_zigrin",
+      "name": "Yarpen Zigrin",
+      "_id": 142,
+      "faction": "NR",
+      "unique": false,
+      "strength": 2,
+      "row": "close",
+      "ability": null
+    },
+	{
+      "_idstr": "yennefer_of_vengerberg_1",
+      "name": "Yennefer of Vengerberg",
+      "_id": 143,
+      "faction": "N",
+      "unique": true,
+      "strength": 7,
+      "row": "range",
+      "ability": "medic"
+    },
+	{
+      "_idstr": "young_emissary_1",
+      "name": "Young Emissary 1",
+      "_id": 144,
+      "faction": "NF",
+      "unique": false,
+      "strength": 5,
+      "row": "close",
+      "ability": "tight_bond"
+    },
+    {
+      "_idstr": "zerrikanian_fire_scorpion",
+      "name": "Zerrikanian Fire Scorpion",
+      "_id": 145,
+      "faction": "NF",
+      "unique": false,
+      "strength": 5,
+      "row": "siege",
+      "ability": null
+    },
+	{
+      "_idstr": "zoltan_chivay_1",
+      "name": "Zoltan Chivay",
+      "_id": 146,
+      "faction": "N",
+      "unique": false,
+      "strength": 5,
+      "row": "close",
+      "ability": null
+    },
+	{
+		"name": "Biting Frost",
+		"_id": 200,
+		"faction": "Special",
+		"unique": false,
+		"strength": 0,
+		"row": "weather",
+		"ability": "reduce_close"
+    },
+	{
+      "name": "Clear Weather",
+      "_id": 201,
+      "faction": "Special",
+      "unique": false,
+      "strength": 0,
+      "row": "weather",
+      "ability": "clear_weather"
+    },
+	{
+		"name" : "Commander's Horn",
+		"_id" : 202,
+		"unique" : false,
+		"faction" : "Special",
+		"strength" : 0,
+		"row" : "special",
+		"ability" : "double_strenght"
+	},
+	{
+		"name" : "Commander's Horn",
+		"_id" : 202,
+		"unique" : false,
+		"faction" : "Special",
+		"strength" : 0,
+		"row" : "special",
+		"ability" : "double_strenght"
+	},
+	{
+		"name" : "Commander's Horn",
+		"_id" : 202,
+		"unique" : false,
+		"faction" : "Special",
+		"strength" : 0,
+		"row" : "special",
+		"ability" : "double_strenght"
+	},
+	{
+      "name": "Decoy",
+      "_id": 203,
+      "faction": "Special",
+      "unique": false,
+      "strength": 0,
+      "row": "one_time",
+      "ability": "swap_card"
+    },
+	{
+      "name": "Decoy",
+      "_id": 203,
+      "faction": "Special",
+      "unique": false,
+      "strength": 0,
+      "row": "one_time",
+      "ability": "swap_card"
+    },
+	{
+      "name": "Decoy",
+      "_id": 203,
+      "faction": "Special",
+      "unique": false,
+      "strength": 0,
+      "row": "one_time",
+      "ability": "swap_card"
+    },
+	{
+      "name": "Impenetrable Fog",
+      "_id": 204,
+      "faction": "Special",
+      "unique": false,
+      "strength": 0,
+      "row": "weather",
+      "ability": "reduce_range"
+    },
+	{
+		"name": "Scorch",
+		"_id": 205,
+		"faction": "Special",
+		"unique": false,
+		"strength": 0,
+		"row": "one_time",
+		"ability": "kill_strongest"
+    },
+	{
+      "name": "Torrential Rain",
+      "_id": 206,
+      "faction": "Special",
+      "unique": false,
+      "strength": 0,
+      "row": "weather",
+      "ability": "reduce_siege"
+    }
+]
+}
